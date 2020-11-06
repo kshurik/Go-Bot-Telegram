@@ -88,7 +88,6 @@ QtAwesome==0.7.2
 QtPy==1.9.0
 rapidfuzz==0.7.6
 rope==0.17.0
-Rtree==0.9.4
 ruamel.yaml==0.15.100
 rusenttokenize==0.0.5
 sacremoses==0.0.35
